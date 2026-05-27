@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokeneetch",
+        "uuid": 8998769,
+        "checksum": "wk1rv2"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
